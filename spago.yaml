@@ -1,0 +1,13 @@
+package:
+  name: gopurs-node-path
+  dependencies:
+    - console
+    - effect
+    - prelude
+  test:
+    main: Test.Main
+    dependencies: []
+workspace:
+  packageSet:
+    registry: 77.12.0
+  extraPackages: {}
